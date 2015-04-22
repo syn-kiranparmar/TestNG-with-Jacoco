@@ -121,9 +121,5 @@
 			 </plugin>            
 		</plugins>
 	</build>
-	<parent>
-		<groupId>cpds-upop-cil</groupId>
-		<artifactId>cpds-upop-cil</artifactId>
-		<version>0.0.1-SNAPSHOT</version>
-	</parent>
+	
 </project>
